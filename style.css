@@ -1,0 +1,20 @@
+h1 { 
+background-color: lightblue; 
+}
+
+.arrondie {
+-moz-border-radius:7px;
+-webkit-border-radius:7px;
+border-radius:7px;
+}
+
+.Degrade {
+background-image:linear-gradient(white, lightblue);
+}
+
+.Police
+{
+    font-family:  Arial, Georgia, Courier New, sans-serif;
+}
+
+
